@@ -6,7 +6,7 @@ This project predicts **Supply Chain Emission Factors with Margins** using vario
 
 ##  Features
 
-- 📦 Predicts emissions based on:
+-  Predicts emissions based on:
   - Substance type
   - Unit of measurement
   - Source (Industry / Commodity)
